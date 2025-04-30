@@ -17,3 +17,5 @@ function sumar(a, b) {
 
 sumar(5,3);
 restar(10,4);
+multiplicar(12,3);
+dividir(6,2);
